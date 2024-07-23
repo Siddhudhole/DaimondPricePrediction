@@ -1,0 +1,3 @@
+[2024-07-23 15:44:04,480] 23 root - INFO - Initializing data ingestion
+[2024-07-23 15:44:04,937] 33 root - INFO - Data ingestion initialized successfully
+[2024-07-23 15:44:05,277] 37 root - INFO - Data split into training and test sets

@@ -1,4 +1,4 @@
 pandas 
 numpy 
-skicit-learn 
+scikit-learn 
 -e . 
